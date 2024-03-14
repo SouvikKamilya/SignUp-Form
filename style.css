@@ -1,0 +1,99 @@
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(186, 136, 242);
+    
+    
+}
+
+
+.box{
+    height: 450px;
+    width: 320px;
+    background-color: blueviolet;
+   margin-top: 5px;
+   border-radius: 15px;
+   
+}
+
+
+.signup{
+    color: rgb(255, 255, 255);
+    font-size: 1.9rem;
+    font-weight: 1000;
+    display: flex;
+    justify-content: center;
+    padding: 17px;
+    font-family: cursive;
+}
+
+.details input{
+    width: 85%;
+    height: 22px;
+    border-radius: 3px;
+    border: none;
+}
+ 
+
+.det{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+
+.guide input{
+    padding-left: 20px;
+}
+
+
+.guide{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.7rem;
+    color: #cccccc;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.sign-up{
+    display: flex;
+    justify-content: center;
+}
+
+.log-in{
+    display: flex;
+    justify-content: center;
+}
+
+.log-in a {
+    font-size: 0.75rem;
+    color: #cccccc;
+}
+
+.log-in p {
+    font-size: 0.85rem;
+    color: #cccccc;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border:2px solid transparent;
+    background-color: rgb(200, 134, 238);
+    
+}
+.sign-up :hover{
+   background-color: yellow;
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+    font-size: 0.7rem;
+    color: #cccccc;
+}
+
